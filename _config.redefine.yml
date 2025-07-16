@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: source/img/cat.svg
+  favicon: /images/redefine-favicon.svg
   # Site logo
-  logo: source/img/cat.svg
+  logo: /images/redefine-favicon.svg
   # Site avatar
-  avatar: source/img/cat.svg
+  avatar: /images/redefine-favicon.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -201,7 +201,7 @@ navbar:
     home: 1200px #home page
     pages: 1000px #other pages
   # Navbar links
-  links:
+  Links:
     #家: 
     #  path: / 
     #  icon: fa-regular fa-house # can be empty
@@ -211,8 +211,8 @@ navbar:
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    #icon: fa-regular fa-user
-      About:
+    icon: fa-regular fa-user
+      submenus:
         Blog: https://nowaylzy.netlify.app
         Github: https://github.com/NowayLzy
         Email: mailto:2281724930@qq.com
