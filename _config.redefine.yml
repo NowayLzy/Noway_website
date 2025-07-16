@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: \source\img\cat.svg
   # Site logo
-  logo: /images/redefine-favicon.svg
+  logo: \source\img\cat.svg
   # Site avatar
-  avatar: /images/redefine-favicon.svg
+  avatar: \source\img\cat.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -201,7 +201,7 @@ navbar:
     home: 1200px #home page
     pages: 1000px #other pages
   # Navbar links
-  Links:
+  links:
     #家: 
     #  path: / 
     #  icon: fa-regular fa-house # can be empty
@@ -211,13 +211,21 @@ navbar:
     # Status: 
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    icon: fa-regular fa-user
-      submenus:
-        Blog: https://nowaylzy.netlify.app
-        Github: https://github.com/NowayLzy
-        Email: mailto:2281724930@qq.com
-        QQ: http://wpa.qq.com/msgrd?v=3&uin=2281724930&site=qq&menu=yes
-
+    #icon: fa-regular fa-user
+    #  submenus:
+    #    Blog: https://nowaylzy.netlify.app
+    #    Github: https://github.com/NowayLzy
+    #    Email: mailto:2281724930@qq.com
+    #    QQ: http://wpa.qq.com/msgrd?v=3&uin=2281724930&site=qq&menu=yes
+      Home: 
+        path: https://nowaylzy.netlify.app/
+        icon: fa-regular fa-house
+      About: # 一级菜单栏名称
+        icon: fa-regular fa-user # Fontawesome图标名称（可选）
+        submenus: # 二级菜单栏
+          Github: https://github.com/NowayLzy
+          Email: mailto:2281724930@qq.com
+          QQ: http://wpa.qq.com/msgrd?v=3&uin=2281724930&site=qq&menu=yes
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
