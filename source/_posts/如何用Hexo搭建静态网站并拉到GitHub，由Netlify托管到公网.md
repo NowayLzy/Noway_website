@@ -22,7 +22,7 @@ tags: Web
 安装 Hexo：
 所有必备的应用程序安装完成后，即可使用 npm 安装 Hexo。（在git中执行）
 
-```
+```shell
 npm install -g hexo-cli
 ```
 
@@ -34,14 +34,14 @@ npm install -g hexo-cli
 
 然后进入该目录，鼠标右键打开Git Bash执行
 
-```
+```shell
 hexo init #Hexo 将会在指定文件夹中新建所需要的文件
 npm install
 ```
 
 初始化后，您的项目文件夹将如下所示：
 
-```
+```yacas
 .
 ├── _config.yml
 ├── package.json
@@ -94,7 +94,7 @@ npm install
 
 在Git中运行
 
-```Git
+```shell
 npm install hexo-theme-redefine@latest
 ```
 
@@ -104,7 +104,7 @@ npm install hexo-theme-redefine@latest
 
 在 Hexo 根目录的 `_config.yml` 文件中，将 `theme` 值修改为 `redefine`。
 
-```_config.yml
+```yaml
 theme: redefine
 ```
 
@@ -132,12 +132,12 @@ theme: redefine
 
 在hello目录右键打开Git Bash将网站文件上传至GitHub
 
-```配置 Git 账户
+```shell
 git config --global user.name "你的GitHub用户名"
 git config --global user.email "你的GitHub邮箱"
 ```
 
-```
+```shell
 git init        # 初始化Git仓库
 git add .       # 添加所有文件（或指定文件 git add 文件名）
 # 若遇到分支名错误（旧版 Git 默认分支为 master）：
