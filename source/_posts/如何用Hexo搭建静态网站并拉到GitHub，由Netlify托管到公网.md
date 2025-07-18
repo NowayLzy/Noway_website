@@ -82,9 +82,11 @@ npm install
 
 #### 第四步
 
-> [!IMPORTANT]
->
-> **主题安装**
+{% notel red 注： %}
+
+**主题安装**
+
+{% endnotel %}
 
 本文使用Redefine主题（个人呢感觉很好用啊）
 
