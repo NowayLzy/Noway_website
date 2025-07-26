@@ -218,14 +218,15 @@ navbar:
     #    Email: mailto:2281724930@qq.com
     #    QQ: http://wpa.qq.com/msgrd?v=3&uin=2281724930&site=qq&menu=yes
     Home: 
-      path: https://nowaylzy.netlify.app/
+      path: /
       icon: fa-regular fa-house
     About: # 一级菜单栏名称
       icon: fa-regular fa-user # Fontawesome图标名称（可选）
-      submenus: # 二级菜单栏
-        Github: https://github.com/NowayLzy
-        Email: mailto:2281724930@qq.com
-        QQ: tencent://AddContact/?fromId=xx&fromSubId=1&subcmd=all&uin=2281724930&website=https://nowaylzy.netlify.app
+      path: /about
+      #submenus: # 二级菜单栏
+      #  Github: https://github.com/NowayLzy
+      #  Email: mailto:2281724930@qq.com
+      #  QQ: tencent://AddContact/?fromId=xx&fromSubId=1&subcmd=all&uin=2281724930&website=https://nowaylzy.netlify.app
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
