@@ -453,7 +453,7 @@ plugins:
         artist: 347aidan
         url: https://lw-sycdn.kuwo.cn/0961ec9a651a6ce2f926623254e8828e/6884da8b/resource/30106/trackmedia/M500002hEiGH4ZcQIF.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/28/41/972359728.jpg
-        lrc: blob:https://www.gequbao.com/1897462a-48f8-4b75-a2b4-a63211eda137
+        lrc: https://www.gequbao.com/1897462a-48f8-4b75-a2b4-a63211eda137
       - name: nop
         artist: 陈越龙
         url: https://er-sycdn.kuwo.cn/097206e6662708bd62616cacadbb1d3f/6884d93e/resource/30106/trackmedia/M500002eKDXo2QJMJz.mp3?bitrate$128&from=vip
@@ -478,7 +478,7 @@ plugins:
         artist: Matryoshka
         url: https://er-sycdn.kuwo.cn/0cb01d4639ca9c085d73761f990b8197/6884ce19/resource/30106/trackmedia/M500000NdGhz3sEAt9.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/s3s82/48/530783068.jpg
-        lrc: blob:https://www.gequbao.com/115da907-4173-460b-b38c-3e0e4893684b
+        lrc: https://www.gequbao.com/115da907-4173-460b-b38c-3e0e4893684b
       - name: Fantasy World
         artist: 千坂
         url: https://er-sycdn.kuwo.cn/b575fb16c6cb0e1c548f3f2f48be7367/6884e4a1/resource/30106/trackmedia/M500002j5kDo1r7Clm.mp3?bitrate$128&from=vip
@@ -488,12 +488,12 @@ plugins:
         artist: Corn Wave
         url: https://lw-sycdn.kuwo.cn/38bf27ae5a14a7987b3c7ec9cfca342c/6884cb4d/resource/30106/trackmedia/M500004bKsbA2PTTQQ.mp3?bitrate$128&from=vip
         cover: http://img2.kuwo.cn/star/albumcover/500/11/90/1995033735.jpg
-        lrc: blob:https://www.gequbao.com/d9da5205-4709-41cb-9e5c-19c3bb00547b
+        lrc: https://www.gequbao.com/d9da5205-4709-41cb-9e5c-19c3bb00547b
       - name: evening(Explicit)
         artist: Corn Wave
         url: https://lw-sycdn.kuwo.cn/dff7767b89ca35055902bced7b43a280/6884d6c9/resource/30106/trackmedia/M500004HG3Bf11rKRx.mp3?bitrate$128&from=vip
         cover: http://img2.kuwo.cn/star/albumcover/500/38/83/1023299379.jpg
-        lrc: blob:https://www.gequbao.com/a4f02612-63ef-4523-bba2-4a624ccaabe7
+        lrc: https://www.gequbao.com/a4f02612-63ef-4523-bba2-4a624ccaabe7
       - name: Wasted(Murkish Remix|Explicit)
         artist: Strangerboi24/Nightcore/Murkish/joseph rodgigo
         url: https://er-sycdn.kuwo.cn/9fb41e980e14a7949a3eaa109d34494a/6884cb9c/resource/30106/trackmedia/M5000027rIuD36LAk0.mp3?bitrate$128&from=vip
