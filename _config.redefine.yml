@@ -224,7 +224,9 @@ navbar:
       icon: fa-regular fa-user # Fontawesome图标名称（可选）
       path: /about
       #submenus: # 二级菜单栏
-      #  Github: https://github.com/NowayLzy
+    Github: 
+      path: https://github.com/NowayLzy
+      icon: fa-brands fa-github
       #  Email: mailto:2281724930@qq.com
       #  QQ: tencent://AddContact/?fromId=xx&fromSubId=1&subcmd=all&uin=2281724930&website=https://nowaylzy.netlify.app
     # Links: 
