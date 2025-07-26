@@ -5,9 +5,12 @@ template: ME
 ---
 ![这是图片](https://t.alcy.cc/fj)
 
-联系我：
+### 联系我：
 
 {% btn regular::QQ::tencent://AddContact/?fromId=xx&fromSubId=1&subcmd=all&uin=2281724930&website=https://nowaylzy.netlify.app::fa-brands fa-qq %}
 
 {% btn regular::Email::mailto:2281724930@qq.com::fa-solid fa-envelope %}
 
+作者是个**臭人机**，什么都不会，一天到晚只知道吃白饭。
+
+你也玩荒野乱斗？加我好友吧——→ID: #2Y9YCCJRV

@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: "/img/cat.svg"
+  favicon: "/img/first_start/cat.svg"
   # Site logo
-  logo: "/img/cat.svg"
+  logo: "/img/first_start/cat.svg"
   # Site avatar
-  avatar: "/img/cat.svg"
+  avatar: "/img/first_start/cat.svg"
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -202,9 +202,9 @@ navbar:
     pages: 1000px #other pages
   # Navbar links
   links:
-    #家: 
-    #  path: / 
-    #  icon: fa-regular fa-house # can be empty
+    Home:  
+      path: /
+      icon: fa-regular fa-house
     Archives: 
       path: /archives 
       icon: fa-regular fa-archive # can be empty
@@ -217,16 +217,13 @@ navbar:
     #    Github: https://github.com/NowayLzy
     #    Email: mailto:2281724930@qq.com
     #    QQ: http://wpa.qq.com/msgrd?v=3&uin=2281724930&site=qq&menu=yes
-    Home: 
-      path: /
-      icon: fa-regular fa-house
+    Github: 
+      path: https://github.com/NowayLzy
+      icon: fa-brands fa-github
     About: # 一级菜单栏名称
       icon: fa-regular fa-user # Fontawesome图标名称（可选）
       path: /about
       #submenus: # 二级菜单栏
-    Github: 
-      path: https://github.com/NowayLzy
-      icon: fa-brands fa-github
       #  Email: mailto:2281724930@qq.com
       #  QQ: tencent://AddContact/?fromId=xx&fromSubId=1&subcmd=all&uin=2281724930&website=https://nowaylzy.netlify.app
     # Links: 

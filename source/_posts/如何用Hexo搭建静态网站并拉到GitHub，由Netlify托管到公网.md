@@ -1,7 +1,7 @@
 ---
 title: 如何用Hexo搭建静态网站并拉到GitHub，由Netlify托管到公网
 date: 2025-07-18 11:21:47
-cover: /img/2025.7.18.github3.png
+cover: /img/netlify_github_hexo/2025.7.18.github3.png
 tags: Web
 ---
 
@@ -124,11 +124,11 @@ theme: redefine
 
 新建一个仓库，如图（一定不要勾选README，否则会上拉失败）
 
-![1](/img/2025.7.18.gihub.jpeg)
+![1](/img/netlify_github_hexo/2025.7.18.gihub.jpeg)
 
-![2](/img/2025.7.18.github1.jpeg)
+![2](/img/netlify_github_hexo/2025.7.18.github1.jpeg)
 
-![3](/img/2025.7.18.github2.jpeg)
+![3](/img/netlify_github_hexo/2025.7.18.github2.jpeg)
 
 在hello目录右键打开Git Bash将网站文件上传至GitHub
 
