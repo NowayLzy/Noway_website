@@ -448,57 +448,57 @@ plugins:
         artist: Nora En Pure
         url: https://lw-sycdn.kuwo.cn/1b81a9a9e0f99389af7072ead95355d1/6884d90b/resource/30106/trackmedia/M500003eefX14NYnub.mp3?bitrate$128&from=vip
         cover: https://img1.kuwo.cn/star/albumcover/500/33/33/1854642835.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: MEMORIES!
         artist: 347aidan
         url: https://lw-sycdn.kuwo.cn/0961ec9a651a6ce2f926623254e8828e/6884da8b/resource/30106/trackmedia/M500002hEiGH4ZcQIF.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/28/41/972359728.jpg
-        #lrc: https://www.gequbao.com/1897462a-48f8-4b75-a2b4-a63211eda137
+        lrc: /lrc/MEMORIES!-347aidan.lrc
       - name: nop
         artist: 陈越龙
         url: https://er-sycdn.kuwo.cn/097206e6662708bd62616cacadbb1d3f/6884d93e/resource/30106/trackmedia/M500002eKDXo2QJMJz.mp3?bitrate$128&from=vip
         cover: http://img3.kuwo.cn/star/albumcover/500/70/29/2280416778.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: Luv Letter
         artist: DJ OKAWARI
         url: https://er-sycdn.kuwo.cn/1c37bb9b479217a55bd7511b13b88049/6884e325/resource/30106/trackmedia/M500000mfjBd2G3mAL.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/78/12/319905869.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: Lovesickness
         artist: Keyoung Fresh
         url: https://gi-sycdn.kuwo.cn/e9d49b569e4d0e9e0a212dd248aea674/6884dc90/resource/n2/32/9/2937474704.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/85/45/1512029556.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: ǝɔuɐɹʇuǝ uɐ ƃuᴉʞɐɯ (combination lock & ʎpoqou)
         artist: ʎpoqou
         url: https://nc-sycdn.kuwo.cn/eecfd64cd00645619743653ed8c13654/6884e3c8/resource/n1/86/6/1579227450.mp3
         cover: http://img4.kuwo.cn/star/albumcover/500/46/32/300068187.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: Sacred Play Secret Place
         artist: Matryoshka
         url: https://er-sycdn.kuwo.cn/0cb01d4639ca9c085d73761f990b8197/6884ce19/resource/30106/trackmedia/M500000NdGhz3sEAt9.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/s3s82/48/530783068.jpg
-        #lrc: https://www.gequbao.com/115da907-4173-460b-b38c-3e0e4893684b
+        lrc: /lrc/Sacred Play Secret Place-Matryoshka.lrc
       - name: Fantasy World
         artist: 千坂
         url: https://er-sycdn.kuwo.cn/b575fb16c6cb0e1c548f3f2f48be7367/6884e4a1/resource/30106/trackmedia/M500002j5kDo1r7Clm.mp3?bitrate$128&from=vip
         cover: http://img1.kuwo.cn/star/albumcover/500/27/6/2100841239.jpg
-        #lrc: 此歌曲为没有填词的纯音乐，请您欣赏
+        lrc: /lrc/null.lrc
       - name: манго нектар
         artist: Corn Wave
         url: https://lw-sycdn.kuwo.cn/38bf27ae5a14a7987b3c7ec9cfca342c/6884cb4d/resource/30106/trackmedia/M500004bKsbA2PTTQQ.mp3?bitrate$128&from=vip
         cover: http://img2.kuwo.cn/star/albumcover/500/11/90/1995033735.jpg
-        #lrc: https://www.gequbao.com/d9da5205-4709-41cb-9e5c-19c3bb00547b
+        lrc: /lrc/манго нектар-Corn Wave.lrc
       - name: evening(Explicit)
         artist: Corn Wave
         url: https://lw-sycdn.kuwo.cn/dff7767b89ca35055902bced7b43a280/6884d6c9/resource/30106/trackmedia/M500004HG3Bf11rKRx.mp3?bitrate$128&from=vip
         cover: http://img2.kuwo.cn/star/albumcover/500/38/83/1023299379.jpg
-        #lrc: https://www.gequbao.com/a4f02612-63ef-4523-bba2-4a624ccaabe7
+        lrc: /lrc/evening(Explicit)-Corn Wave.lrc
       - name: Wasted(Murkish Remix|Explicit)
         artist: Strangerboi24/Nightcore/Murkish/joseph rodgigo
         url: https://er-sycdn.kuwo.cn/9fb41e980e14a7949a3eaa109d34494a/6884cb9c/resource/30106/trackmedia/M5000027rIuD36LAk0.mp3?bitrate$128&from=vip
         cover: http://img2.kuwo.cn/star/albumcover/500/s3s38/78/3065274648.jpg
-        #lrc: https://www.gequbao.com/f6c53c2c-3c48-43bd-9d36-926029eac573
+        lrc: /lrc/Wasted(Murkish Remix_Explicit)-Strangerboi24&Nightcore&Murkish&joseph rodgigo.lrc
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
