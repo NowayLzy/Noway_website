@@ -116,7 +116,11 @@ theme: redefine
 
 本文件会自动覆盖主题的配置项，创建本文件的目的是为了方便你在升级主题时，不会丢失你的配置。
 
-{% notel red 然后在这里看看文档如何进行更进一步的配置吧 %}[Docs]([Hexo Redefine 主题文档 | Hexo Theme Redefine Docs](https://redefine-docs.ohevan.com/zh)){% endnotel %}
+{% notel red 然后在这里看看文档如何进行更进一步的配置吧 %}
+
+[Docs]([Hexo Redefine 主题文档 | Hexo Theme Redefine Docs](https://redefine-docs.ohevan.com/zh))
+
+{% endnotel %}
 
 ## 上拉至Github
 
