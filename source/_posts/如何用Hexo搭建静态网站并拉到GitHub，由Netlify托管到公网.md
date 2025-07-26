@@ -118,7 +118,7 @@ theme: redefine
 
 {% notel red 然后在这里看看文档如何进行更进一步的配置吧 %}
 
-[Docs]([Hexo Redefine 主题文档 | Hexo Theme Redefine Docs](https://redefine-docs.ohevan.com/zh))
+[Hexo Redefine 主题文档 | Hexo Theme Redefine Docs](https://redefine-docs.ohevan.com/zh)
 
 {% endnotel %}
 

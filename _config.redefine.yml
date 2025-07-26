@@ -441,14 +441,19 @@ plugins:
     enable: false # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
-    enable: false # Whether to enable
+    enable: true # Whether to enable
     type: fixed # fixed, mini
     audios:
-      - name: # audio name
-        artist: # audio artist
-        url: # audio url
-        cover: # audio cover url
-        lrc: # audio cover lrc
+      - name: Lake Arrowhead (Radio Mix)
+        artist: Nora En Pure
+        url: https://lw-sycdn.kuwo.cn/1b81a9a9e0f99389af7072ead95355d1/6884d90b/resource/30106/trackmedia/M500003eefX14NYnub.mp3?bitrate$128&from=vip
+        cover: https://img1.kuwo.cn/star/albumcover/500/33/33/1854642835.jpg
+        lrc: 
+      - name: MEMORIES!
+        artist: 347aidan
+        url: https://lw-sycdn.kuwo.cn/0961ec9a651a6ce2f926623254e8828e/6884da8b/resource/30106/trackmedia/M500002hEiGH4ZcQIF.mp3?bitrate$128&from=vip
+        cover: http://img4.kuwo.cn/star/albumcover/500/28/41/972359728.jpg
+        lrc: 
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
