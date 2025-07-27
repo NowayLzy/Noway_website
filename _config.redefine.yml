@@ -451,7 +451,7 @@ plugins:
         lrc: /lrc/null.lrc
       - name: MEMORIES!
         artist: 347aidan
-        url: https://er-sycdn.kuwo.cn/9dec946c339a1169974d1aff433ce77e/68858b95/resource/30106/trackmedia/M500001CFRMk28ZKoK.mp3?bitrate$128&from=vip
+        url: https://lw-sycdn.kuwo.cn/c2d1db12abda5bec21285abe11a58abe/68859032/resource/30106/trackmedia/M500002hEiGH4ZcQIF.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/28/41/972359728.jpg
         lrc: /lrc/MEMORIES!-347aidan.lrc
       - name: nop
