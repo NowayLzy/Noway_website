@@ -451,7 +451,7 @@ plugins:
         lrc: /lrc/null.lrc
       - name: MEMORIES!
         artist: 347aidan
-        url: https://lw-sycdn.kuwo.cn/0961ec9a651a6ce2f926623254e8828e/6884da8b/resource/30106/trackmedia/M500002hEiGH4ZcQIF.mp3?bitrate$128&from=vip
+        url: https://er-sycdn.kuwo.cn/9dec946c339a1169974d1aff433ce77e/68858b95/resource/30106/trackmedia/M500001CFRMk28ZKoK.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/28/41/972359728.jpg
         lrc: /lrc/MEMORIES!-347aidan.lrc
       - name: nop
@@ -461,7 +461,7 @@ plugins:
         lrc: /lrc/null.lrc
       - name: Luv Letter
         artist: DJ OKAWARI
-        url: https://er-sycdn.kuwo.cn/1c37bb9b479217a55bd7511b13b88049/6884e325/resource/30106/trackmedia/M500000mfjBd2G3mAL.mp3?bitrate$128&from=vip
+        url: https://er-sycdn.kuwo.cn/4771f532735611fe835216a9ddb73534/68858bbb/resource/30106/trackmedia/M500000mfjBd2G3mAL.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/78/12/319905869.jpg
         lrc: /lrc/null.lrc
       - name: Lovesickness
@@ -476,12 +476,12 @@ plugins:
         lrc: /lrc/null.lrc
       - name: Sacred Play Secret Place
         artist: Matryoshka
-        url: https://er-sycdn.kuwo.cn/0cb01d4639ca9c085d73761f990b8197/6884ce19/resource/30106/trackmedia/M500000NdGhz3sEAt9.mp3?bitrate$128&from=vip
+        url: https://er-sycdn.kuwo.cn/e236573027de7302e1135c8a23ffa522/68858919/resource/30106/trackmedia/M500000NdGhz3sEAt9.mp3?bitrate$128&from=vip
         cover: http://img4.kuwo.cn/star/albumcover/500/s3s82/48/530783068.jpg
         lrc: /lrc/Sacred Play Secret Place-Matryoshka.lrc
       - name: Fantasy World
         artist: 千坂
-        url: https://er-sycdn.kuwo.cn/b575fb16c6cb0e1c548f3f2f48be7367/6884e4a1/resource/30106/trackmedia/M500002j5kDo1r7Clm.mp3?bitrate$128&from=vip
+        url: https://er-sycdn.kuwo.cn/5b54dee12d94dd3c275fd5e19cb3a065/68857fc0/resource/30106/trackmedia/M500002j5kDo1r7Clm.mp3?bitrate$128&from=vip
         cover: http://img1.kuwo.cn/star/albumcover/500/27/6/2100841239.jpg
         lrc: /lrc/null.lrc
       - name: манго нектар
