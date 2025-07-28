@@ -441,14 +441,8 @@ plugins:
     enable: false # Whether to enable
   # Aplayer. See https://github.com/DIYgod/APlayer
   aplayer:
-    enable: false # Whether to enable
+    enable: true # Whether to enable
     type: fixed # fixed, mini
-    audios:
-      - name: 
-        artist: 
-        url: /music
-        cover: /music/img
-        lrc: /lrc/null.lrc
 #      - name: # audio name
 #        artist: # audio artist
 #        url: # audio url
